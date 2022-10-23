@@ -1,5 +1,5 @@
 import './style.css';
-import image from './assets/image.jpg';
+import image from './image.jpg';
 
 function component() {
     const element = document.createElement('div');
